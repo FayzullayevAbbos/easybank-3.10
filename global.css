@@ -1,0 +1,44 @@
+html{
+    font-size: 62.5%;
+}
+.container1 {
+max-width: 1110px;
+margin: 0 auto;
+}
+.big-container {
+max-width: 1440px;
+margin: 0 auto;
+}
+.bg-col-line{
+background: linear-gradient(135deg, #33D35E 0%, #2AB6D9 99.58%);
+}
+
+.btn-padding{
+padding: 0.8rem 3.4rem;
+}
+.header-padding{
+   height: 10.9vh;
+}
+.hero-bg{
+    height: 89.1vh;
+    background: url("./images/svg/bg-hero.png") no-repeat top right  , #FAFAFA;
+    background-size: contain;
+
+}
+.hero{
+    height: inherit;
+}
+
+p{
+    color: #9597A5;
+}
+.section1{
+    padding: 96px 0;
+}
+.section2{
+    padding: 96px 0;
+    background: #FAFAFA;
+}
+.footer{
+    padding: 48px 0;
+}
